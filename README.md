@@ -22,5 +22,5 @@
 - Clustering
 - k-Means
 
-### Certificate
+## Certificate
 - [Verified Certificate](https://coursera.org/share/3e70651d62e366c8cdae7368b96c35e1)
