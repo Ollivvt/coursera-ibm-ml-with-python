@@ -1,4 +1,4 @@
-# Machine Learning with Python
+# Machine Learning with Python (Coursera)
 
 ### Week 1
 - Introduction to Machine Learning
